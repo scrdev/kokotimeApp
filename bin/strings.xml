@@ -1,0 +1,258 @@
+<resources>
+
+    <string name="notNow"><u>Not now</u></string>
+
+    <string name="watch_now">Watch Now</string>
+    <string name="download">Download</string>
+    <string name="cast_to_chromecast">Cast to Chromecast</string>
+
+    <string name="export_link">Export link to another app</string>
+    <string name="universal_cast">Cast to any device</string>
+
+    <string name="low_quality" translatable="false">Low quality</string>
+    <string name="high_quality" translatable="false">High quality</string>
+
+    <string name="loading">Loading</string>
+
+    //activity casting
+    <string name="cast_connected">Connected</string>
+    <string name="cast_searching">Searching device</string>
+    <string name="cast_device_ip">Device ip : </string>
+
+    //channel playlist strings
+    <string name="my_channels">My Channels</string>
+    <string name="add_local_playlist">Add m3u file</string>
+    <string name="add_external_playlist">Add m3u url</string>
+    <string name="edit_playlist">Edit playlist</string>
+    <string name="no_playlists">You have\'nt added any m3u playlists yet</string>
+    <string name="name_playlist">Playlist name</string>
+    <string name="url_playlist">Url : http://&#8230;</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="no_channel_group">No channel group</string>
+
+
+    //filemanager
+    <string name="rename">Rename</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="cut">Cut</string>
+    <string name="file_items">Items</string>
+    <string name="activity_filemanager_title">Filemanager</string>
+
+    //video info strings
+    <string name="summary">Summary</string>
+    <string name="cast">Cast</string>
+    <string name="reviews">Reviews</string>
+
+    //addon home page names
+    <string name="page_home">Home</string>
+    <string name="page_search">Search</string>
+    <string name="page_favorites">Favorites</string>
+    <string name="page_upcomming">Upcoming</string>
+    <string name="page_recent">Recently Added</string>
+
+    //main menu strings
+    <string name="menu_item_subtitles">Subtitles</string>
+    <string name="menu_item_filemanager">Filemanager</string>
+    <string name="menu_item_channels">Channels</string>
+    <string name="menu_item_buy">Premium</string>
+    <string name="menu_item_addon_store">Add-on Store</string>
+    <string name="menu_item_support">Support</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_website">Website</string>
+    <string name="menu_item_downloaded">Downloaded</string>
+
+    <string name="new_update_available">New update available !</string>
+    <string name="update">Update</string>
+    <string name="index_movies">Index Movies</string>
+    <string name="placeholder_no_movies_indexed_yet">Movies not yet indexed</string>
+    <string name="placeholder_no_movies_found">No movies found</string>
+    <string name="more">more</string>
+
+    <string name="removed_uninstalled_addons">Uninstalled add-ons removed from menu.</string>
+    <string name="added_installed_addons">Installed add-ons added to menu.</string>
+
+    //subtitle strings
+    <string name="external_subs_loaded">External subtitles loaded successfully</string>
+    <string name="external_subs_error">An error occurred while loading the subtitles</string>
+    <string name="external_subs_no_video_source">No video source available yet</string>
+
+    //player strings
+    <string name="cant_load_video">Can\'t load video from source please try another one from the menu</string>
+    <string name="error_source">No sources found for the selected content</string>
+    <string name="no_subtitles_found">No subtitles found for the selected language.</string>
+    <string name="no_video_source">No video source was provided by the add-on.</string>
+    <string name="loading_next_episode">Loading next episode of season.</string>
+
+
+    //subtitle settings
+    <string name="activity_subtitles_title">Subtitles</string>
+    <string name="language">Language</string>
+    <string name="language_description">select the language to fetch the subtitles in</string>
+    <string name="subtitles_background">Background</string>
+    <string name="subtitles_background_description">choose a background color for the displayed subtitles</string>
+    <string name="subtitles_text_color">Text color</string>
+    <string name="subtitles_text_color_description">text color for the displayed subtitles</string>
+    <string name="subtitles_outline_color">Text outline color</string>
+    <string name="subtitles_outline_color_description">color for the text outline</string>
+
+
+
+    <string name="subtitle_styling_category">subtitles styling</string>
+
+
+    //addon manager
+    <string name="activity_addon_title">Add-on Store</string>
+    <string name="addon_import_successful">Your addon has been installed successfully</string>
+    <string name="addon_import_failed">Can\'t import addon, addon might be corrupt or incorrectly set up, make sure the data.json contains the necessary info !</string>
+    <string name="addon_import_confirm_replace_title">Replace addon ?</string>
+    <string name="addon_import_confirm_replace">An addon with the same name already exists, installing this addon will replace or update the old one !</string>
+
+
+    //Pro slider
+    <string name="pro_slider_2_text">Once you go pro no more annoying ads between each video or throughout the whole app now and for ad placements to come !</string>
+    <string name="pro_slider_3_text">Cast videos to your chromecast or to any other device with a native built in casting system for the best streaming experience</string>
+    <string name="pro_slider_4_text">No engagements, pay per year, stop and start when you like, enjoy a full year service for a small affordable price</string>
+    <string name="pro_slider_5_text">Does all this sound interesting ? click the button below to be directed to our website to check the price and possible payment methods. After payment you will receive your account credentials to the email that made the payment.</string>
+
+    //App intro slider
+    <string name="app_intro_slider_8_title">Subtitles</string>
+    <string name="app_intro_slider_7_title">Channels</string>
+    <string name="app_intro_slider_6_title">File-manager</string>
+    <string name="app_intro_slider_5_title">Media organizer</string>
+    <string name="app_intro_slider_2_title">Add-ons</string>
+    <string name="app_intro_slider_7_text">With channel support you can import your m3u playlists to Kokotime and stream them with our fully optimized video-player for the best streaming experience.</string>
+    <string name="app_intro_slider_8_text">Automatic subtitles is an integrated feature that will attempt to find and load subtitles for the content you are playing in over 182 different languages with the possibility of full customization. You can also load your own subtitles, and our built-in player supports subtitle synchronization.</string>
+
+    <string name="app_intro_slider_6_text">Equipped with a fully functional filemanager, you will be able to browse play and manager your media files with the buile in file browser.</string>
+    <string name="app_intro_slider_5_text">Kokotime will organize your local or external media and display beautiful artwork and info about your movies and shows so you can say goodbye to DVDs and enjoy an organized library.</string>
+    <string name="app_intro_slider_2_text">Compatible with 3rd party add-ons Kokotime will let you easily load different type of content from 3rd party providers through add-ons while keeping everything nice and clean thanks to our unique add-on system.</string>
+    <string name="app_intro_slider_3_title">Legal</string>
+
+    <string name="intro_get_addons">Get Add-ons</string>
+    <string name="intro_accept_terms">Accept</string>
+    
+    
+    //dialogs
+    <string name="pro_alert_dialog">This feature is only available for premium users, click go premium to get more info on the premium user features</string>
+
+    //credits
+    <string name="moviedb_credits">Since version 2.0.6 , in some cases, Kokotime automatically fetches the data corresponding to the content returned by an addon or local media instead of relying on the info provided by the addon/media this way Kokotime can guarantee user experience. For this Kokotime uses www.themoviedb.org public API</string>
+
+    //Verification strings
+    <string name="verify_unknown_error">Unknown error occurred while attempting to verify, please try again</string>
+
+
+    /Preferences titles-descriptions
+
+    <string name="app_intro_title">App intro</string>
+    <string name="app_intro_summary">Launch the app intro,displayed first time you started up Kokotime.</string>
+    <string name="installed_version">Installed version</string>
+    <string name="direct_play_landscape_title">Direct play in landscape</string>
+    <string name="direct_play_landscape_description">When your device is in landscape mode the app will not show a play options menu but will directly play the requested video using the in app player.</string>
+
+    <string name="auto_play_next_episode_title">Auto play next episode</string>
+    <string name="auto_play_next_episode_description">When using a series addon, the video player or cast remote will attempt to play the next episode automatically at the end of the current one.</string>
+
+
+    <string name="display_featured_movies_title">Display featured movies section</string>
+    <string name="display_featured_movies_description">Displays the featured movies section when opening an addon if the addon provides a featured section.</string>
+
+    <string name="display_watching_movies_title">Display currently watching movies section</string>
+    <string name="display_watching_movies_description">Displays the currently watching movies section when you open a movies addon.</string>
+
+    <string name="display_watching_series_title">Display currently watching series section</string>
+    <string name="display_watching_series_description">Displays the currently watching episode of a series when you open a series addon.</string>
+
+    <string name="display_featured_series_title">Display featured series section</string>
+    <string name="display_featured_series_description">Displays the featured series section when you open an addon, this is possible only if the addon provides featured content.</string>
+
+
+    <string name="addon_store_url_title">Change the linked addon repository</string>
+    <string name="addon_store_url_summary">The addon store url is the url the addon manager uses to request available addons, addon updates etc.</string>
+
+    <string name="play_settings_title">Play settings</string>
+    <string name="movie_addons_settings_title">Movie addons settings</string>
+    <string name="series_addons_settings_title">Series addons settings</string>
+
+
+    //preview fragment
+    <string name="currently_watching">Currently Watching</string>
+    <string name="featured_content">Featured</string>
+    <string name="favorites">My Favorites</string>
+
+    //main menu
+    <string name="local_movies">My Movies</string>
+    <string name="movie_addons">Movie Addons</string>
+    <string name="series_addons">TV Show Addons</string>
+    <string name="channel_addons">Channel Addons</string>
+
+    <string name="extra_options">More</string>
+
+    //organized media movies
+    <string name="recent_section">Recently Added</string>
+    <string name="top_rated_section">Top Rated</string>
+    <string name="my_movies_section">My Movies</string>
+    <string name="indexing_files">Indexing media files</string>
+
+    //account activity
+    <string name="premium_subscribe">Extend premium</string>
+    <string name="premium_sub_info_title">Premium Subscription</string>
+    <string name="account_info_title">Account Info</string>
+    <string name="submit">Submit</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_code">Password change code</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="hint_re_type_email">Re-type email</string>
+    <string name="mistyped_email">Your email re-type does not match.</string>
+    <string name="account_info_email">Verified Email :</string>
+    <string name="forgot_password"><u>Don\'t know your password ?</u></string>
+    <string name="account_info_fullname">Full name :</string>
+    <string name="account_info_creation_date">Creation date :</string>
+    <string name="account_info_last_login_date">Last login :</string>
+    <string name="account_info_pro_end_date">Subscription end :</string>
+    <string name="account_info_pro_limit_reached">Reached device limit :</string>
+    <string name="account_info_is_premium">Premium user :</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="old_password">Old password</string>
+    <string name="new_password">New password</string>
+    <string name="new_password_retype">Re-type new password</string>
+    <string name="change">Change</string>
+    <string name="new_password_no_match">The new password you entered does not match the re-type.</string>
+    <string name="password_change_success">Password changed successfully !</string>
+    <string name="connection_error">Connection error, please try again later.</string>
+    <string name="log_out">Log-Out</string>
+    <string name="log_out_error">Error logging out please try again</string>
+    <string name="notify_old_user_to_login">It seems like you were a pro user before the update, to activate the pro version again please log in with your account. Your username is your purchase email and your password is your previous activation code..</string>
+    <string name="notify_old_user_to_login_title">Your premium account</string>
+    <string name="check_email_for_change_code">Please check your email for the password change code and enter it to complete your request.</string>
+    <string name="password_forgot_completed">Your password has been reset successfully. Check your inbox for your new password.</string>
+
+
+    //activity downloaded files
+    <string name="activity_downloads_title">Downloads</string>
+    <string name="file_deleted">File deleted successfully</string>
+    <string name="file_delete_error">Error deleting file, please try again</string>
+
+    //activity support
+    <string name="activity_support_title">Support</string>
+    <string name="message_sent">Message sent !</string>
+    <string name="fill_in_form">Please fill in the for correctly.</string>
+    <string name="server_error_unsent">Server error, message not sent.</string>
+    <string name="unknown_error">Unknown error.</string>
+
+
+
+
+    //ad layout
+    <string name="skip_ad">Skip ad</string>
+
+
+</resources>
