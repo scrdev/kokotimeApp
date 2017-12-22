@@ -16,7 +16,7 @@ will be :
 `<string name="extra_options">Plus</string>` in `strings-fr.xml`
 
 
-If the string file of your translation does not already exist you can create a new file and name it `strings-lc.xml` where `lc` is the two letter language code of your translation. The file can then be pushed to the repo.
+If the string file of your translation does not already exist you can create a new file and name it `strings-lc.xml` where `lc` is the two letter language code of your translation.
 
 
 
