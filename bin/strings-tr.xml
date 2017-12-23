@@ -106,7 +106,6 @@
     <string name="blue">Mavi</string>
     <string name="transparent">Şeffaf</string>
     <string name="set">Set</string>
-    <string name="subtitles_switch_text">Otomatik altyazılar</string>
 
     //addon manager
     <string name="activity_addon_title">Eklenti Mağazası</string>
