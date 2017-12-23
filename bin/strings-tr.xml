@@ -6,7 +6,7 @@
     <string name="download">İndir</string>
     <string name="cast_to_chromecast">Chromecast ile izle </string>
 
-    <string name="export_link"Başka uygulamada aç</string>
+    <string name="export_link">Başka uygulamada aç</string>
     <string name="universal_cast">Herhangi bir cihaz ile izle</string>
 
     <string name="low_quality" translatable="false">Düşük kalite</string>
@@ -73,7 +73,8 @@
 
     <string name="removed_uninstalled_addons">Silinen eklentiler menüden kaldırıldı</string>
     <string name="added_installed_addons">Yüklenen eklentiler menüye eklendi</string>
-
+    <string name="content_by">tarafından</string>
+    
     //subtitle strings
     <string name="external_subs_loaded">Dış altyazı eklendi</string>
     <string name="external_subs_error">Altyazı eklenemedi</string>
@@ -97,7 +98,7 @@
     <string name="subtitles_text_color_description">gösterilecek altyazının rengini seçin</string>
     <string name="subtitles_outline_color">Kenar rengi</string>
     <string name="subtitles_outline_color_description">altyazı kenar rengi seçin</string>
-
+    <string name="subtitles_switch_text">Otomatik altyazılar</string>
 
 
     <string name="subtitle_styling_category">altyazı şekli</string>
@@ -106,7 +107,7 @@
     //addon manager
     <string name="activity_addon_title">Eklenti Mağazası</string>
     <string name="addon_import_successful">Eklenti yüklendi</string>
-    <string name="addon_import_failed">Eklenti yüklenemedi, eklenti bozuk veya bozulmuş olabilir, data.json'da gerekli bilginin mevcut olduğundan emin olun!</string>
+    <string name="addon_import_failed">Eklenti yüklenemedi, eklenti bozuk veya bozulmuş olabilir, data.json\'da gerekli bilginin mevcut olduğundan emin olun!</string>
     <string name="addon_import_confirm_replace_title">Eklenti değiştirilsin mi?</string>
     <string name="addon_import_confirm_replace">Aynı ada sahip eklenti mevcut, bu işlem eski eklentinin yerine geçer!</string>
 
@@ -123,8 +124,8 @@
     <string name="app_intro_slider_6_title">Dosya Yöneticisi</string>
     <string name="app_intro_slider_5_title">Medya organizasyoncusu</string>
     <string name="app_intro_slider_2_title">Eklentiler</string>
-    <string name="app_intro_slider_7_text">Kanallar desteği ile kendi m3u listenizi Kokotime'a ekleyebilir ve en iyi stream için şahane video oynatıcımızı kullanabilirsiniz</string>
-    <string name="app_intro_slider_8_text">Otomatik altyazı izlediğiniz içerik için 182'den fazla dilde altyazı arar ve oynatır. Altyazı senkronlama özelliği bulunan oynatıcımıza kendi altyazınızı da ekleyebilirsiniz</string>
+    <string name="app_intro_slider_7_text">Kanallar desteği ile kendi m3u listenizi Kokotime\'a ekleyebilir ve en iyi stream için şahane video oynatıcımızı kullanabilirsiniz</string>
+    <string name="app_intro_slider_8_text">Otomatik altyazı izlediğiniz içerik için 182\'den fazla dilde altyazı arar ve oynatır. Altyazı senkronlama özelliği bulunan oynatıcımıza kendi altyazınızı da ekleyebilirsiniz</string>
 
     <string name="app_intro_slider_6_text">Dosya yöneticimizle medyalarınızı düzenleyebilir veya görüntüleyebilirsiniz</string>
     <string name="app_intro_slider_5_text">Kokotime yerel medyalarınız hakkında bilgi verecek ve organize edecek yani DVDlere elveda diyip organize medyanların keyfini çıkarın.</string>
@@ -148,7 +149,7 @@
     /Preferences titles-descriptions
 
     <string name="app_intro_title">Giriş Ekranı</string>
-    <string name="app_intro_summary">Introyu oynat, Kokotime'ı ilk başlattığınız ekranı görün.</string>
+    <string name="app_intro_summary">Introyu oynat, Kokotime\'ı ilk başlattığınız ekranı görün.</string>
     <string name="installed_version">Yüklü versiyon </string>
     <string name="direct_play_landscape_title">Yatay modda izle</string>
     <string name="direct_play_landscape_description">Yatay mod etkinken seçenekler gösterilmeyecek fakat video oynatıcıdan direk oynayacak.</string>
