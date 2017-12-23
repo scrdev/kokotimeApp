@@ -1,6 +1,9 @@
 <resources>
 
     <string name="notNow"><u>Not now</u></string>
+    <string name="defaultUpdate" translatable="false">A new update for kokotime is now available bringing lots of new features to the app so feel free to update to the latest version especially if you are running an older verson of KokoTime !</string>
+
+
 
     <string name="watch_now">Watch Now</string>
     <string name="download">Download</string>
@@ -52,6 +55,7 @@
     <string name="page_favorites">Favorites</string>
     <string name="page_upcomming">Upcoming</string>
     <string name="page_recent">Recently Added</string>
+    <string name="continue_watching">Continue watching</string>
 
     //main menu strings
     <string name="menu_item_subtitles">Subtitles</string>
@@ -70,9 +74,9 @@
     <string name="placeholder_no_movies_indexed_yet">Movies not yet indexed</string>
     <string name="placeholder_no_movies_found">No movies found</string>
     <string name="more">more</string>
-
     <string name="removed_uninstalled_addons">Uninstalled add-ons removed from menu.</string>
     <string name="added_installed_addons">Installed add-ons added to menu.</string>
+    <string name="content_by">Content by </string>
 
     //subtitle strings
     <string name="external_subs_loaded">External subtitles loaded successfully</string>
@@ -85,7 +89,8 @@
     <string name="no_subtitles_found">No subtitles found for the selected language.</string>
     <string name="no_video_source">No video source was provided by the add-on.</string>
     <string name="loading_next_episode">Loading next episode of season.</string>
-
+    <string name="load_local_subtitles">Load local subtitles</string>
+    <string name="sync_subtitles">Sync subtitles</string>
 
     //subtitle settings
     <string name="activity_subtitles_title">Subtitles</string>
@@ -97,8 +102,12 @@
     <string name="subtitles_text_color_description">text color for the displayed subtitles</string>
     <string name="subtitles_outline_color">Text outline color</string>
     <string name="subtitles_outline_color_description">color for the text outline</string>
-
-
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="transparent">Transparent</string>
+    <string name="set">Set</string>
+    <string name="subtitles_switch_text">Auto Subtitles</string>
 
     <string name="subtitle_styling_category">subtitles styling</string>
 
@@ -133,8 +142,8 @@
 
     <string name="intro_get_addons">Get Add-ons</string>
     <string name="intro_accept_terms">Accept</string>
-    
-    
+
+
     //dialogs
     <string name="pro_alert_dialog">This feature is only available for premium users, click go premium to get more info on the premium user features</string>
 
@@ -185,6 +194,8 @@
 
     //main menu
     <string name="local_movies">My Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="movies">Movies</string>
     <string name="movie_addons">Movie Addons</string>
     <string name="series_addons">TV Show Addons</string>
     <string name="channel_addons">Channel Addons</string>
@@ -247,7 +258,9 @@
     <string name="fill_in_form">Please fill in the for correctly.</string>
     <string name="server_error_unsent">Server error, message not sent.</string>
     <string name="unknown_error">Unknown error.</string>
-
+    <string name="email_hint">Email</string>
+    <string name="subject_hint">Subject</string>
+    <string name="your_message_hint">Your message</string>
 
 
 
