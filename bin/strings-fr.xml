@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notNow"><u>Pas maintenant</u></string>
+
+    <string name="watch_now">Regarder</string>
+    <string name="download">Télécharger</string>
+    <string name="cast_to_chromecast">Regarder sur chromecast</string>
+
+    <string name="export_link">Exporter le lien</string>
+    <string name="universal_cast">Regarder sur un autre appareil</string>
+
+    <string name="loading">Chargement</string>
+
+    //activity casting
+    <string name="cast_connected">Connecté</string>
+    <string name="cast_searching">Recherche en cours</string>
+    <string name="cast_device_ip">Adresse IP : </string>
+
+    //channel playlist strings
+    <string name="my_channels">Chaines</string>
+    <string name="add_local_playlist">Rajouter un fichier M3u</string>
+    <string name="add_external_playlist">Rajouter un lien M3u</string>
+    <string name="edit_playlist">Modifier la playlist</string>
+    <string name="no_playlists">Vous n\'avez pas encore de playlist</string>
+    <string name="name_playlist">Nom</string>
+    <string name="url_playlist">Lien : http://&#8230;</string>
+    <string name="add">Rajouter</string>
+    <string name="save">Sauvegarder</string>
+    <string name="delete">Supprimer</string>
+    <string name="no_channel_group">Pas de groupe</string>
+
+
+    //filemanager
+    <string name="rename">Renommer</string>
+    <string name="copy">Copier</string>
+    <string name="paste">Coller</string>
+    <string name="cut">Couper</string>
+    <string name="file_items">éléments</string>
+    <string name="activity_filemanager_title">Gestionnaire De Fichiers</string>
+
+    //video info strings
+    <string name="summary">Résumé</string>
+    <string name="cast">Acteurs</string>
+    <string name="reviews">Avis</string>
+
+    //addon home page names
+    <string name="page_home">Accueil</string>
+    <string name="page_search">Recherche</string>
+    <string name="page_favorites">Favoris</string>
+    <string name="page_upcomming">À Venir</string>
+    <string name="page_recent">Récemment Ajouté</string>
+    <string name="continue_watching">continuer à regarder</string>
+
+    //main menu strings
+    <string name="menu_item_subtitles">Sous-titres</string>
+    <string name="menu_item_filemanager">Gestionnaire</string>
+    <string name="menu_item_channels">Chaînes</string>
+    <string name="menu_item_buy">Premium</string>
+    <string name="menu_item_addon_store">Extensions</string>
+    <string name="menu_item_support">Aide</string>
+    <string name="menu_item_settings">Paramètres</string>
+    <string name="menu_item_website">Site</string>
+    <string name="menu_item_downloaded">Téléchargements</string>
+
+    <string name="new_update_available">Mise à jour disponible !</string>
+    <string name="update">Mettre à jour</string>
+    <string name="index_movies">Indexer vos films</string>
+    <string name="placeholder_no_movies_indexed_yet">Films pas encore indexé</string>
+    <string name="placeholder_no_movies_found">Aucun film trouvé</string>
+    <string name="more">Plus</string>
+    <string name="removed_uninstalled_addons">Les extensions supprimé ont été retiré du menu.</string>
+    <string name="added_installed_addons">Les extensions téléchqrgé ont été ajouté qu menu.</string>
+    <string name="content_by">Contenu de </string>
+
+    //subtitle strings
+    <string name="external_subs_loaded">Vos sous-titres ont été chargé avec succès</string>
+    <string name="external_subs_error">Une erreur s\'est produite lors du chargement des sous-titres.</string>
+    <string name="external_subs_no_video_source">Pas encore de source disponible.</string>
+
+    //player strings
+    <string name="cant_load_video">La source vidéo est incorrecte</string>
+    <string name="no_subtitles_found">No subtitles found for the selected language.</string>
+    <string name="no_video_source">Aucune source fourni par l\'extensions.</string>
+    <string name="loading_next_episode">Chargement du prochain épisode.</string>
+    <string name="load_local_subtitles">Rajouter des sous-titres</string>
+    <string name="sync_subtitles">Synchroniser les sous-titres</string>
+
+    //subtitle settings
+    <string name="activity_subtitles_title">Sous-titres</string>
+    <string name="language">Langue</string>
+    <string name="language_description">Choisir la langue des sous-titres automatique</string>
+    <string name="subtitles_background">Couleur de fond</string>
+    <string name="subtitles_background_description">la couleur de fond pour les sous-titres</string>
+    <string name="subtitles_text_color">Couleur du texte</string>
+    <string name="subtitles_text_color_description">la couleur du texte des sous-titres</string>
+    <string name="subtitles_outline_color">Couleur du contour</string>
+    <string name="subtitles_outline_color_description">la couleur du contour des sous-titres</string>
+    <string name="red">Rouge</string>
+    <string name="green">Vert</string>
+    <string name="blue">Bleu</string>
+    <string name="transparent">Transparent</string>
+    <string name="set">OK</string>
+    <string name="subtitles_switch_text">Sous-titres Automatique</string>
+
+    <string name="subtitle_styling_category">Personnalisation</string>
+
+
+    //addon manager
+    <string name="activity_addon_title">Extensions</string>
+    <string name="addon_import_successful">Extension installé avec succès</string>
+    <string name="addon_import_failed">Erreur d\'importation, verifier que le fichier data.json contient les informations nécessaires !</string>
+    <string name="addon_import_confirm_replace_title">Remplacer l\'extension ?</string>
+    <string name="addon_import_confirm_replace">Une extension avec le même nom existe déjà, ceci remplacera l\'ancienne extension, continuer ?</string>
+    <string name="addon_find">Chercher</string>
+    <string name="addon_installed">Installé</string>
+
+
+    //Pro slider
+    <string name="pro_slider_2_text">Plus de publicité avant chaque vidéo ou autre part dans l\'application  !</string>
+    <string name="pro_slider_3_text">Jouer vos vidéos sur votre Chromecast ou sur n\'importe quel autre appareil avec notre Universal Cast</string>
+    <string name="pro_slider_4_text">Sans engagements, arretez quand vous voulez, prix abordable et paiement par an</string>
+    <string name="pro_slider_5_text">Est-ce que tout cela vous semble interessant ? Cliquez ci-dessous pour être dirigé vers notre site</string>
+
+    //App intro slider
+    <string name="app_intro_slider_8_title">Sous-titres</string>
+    <string name="app_intro_slider_7_title">Chaines</string>
+    <string name="app_intro_slider_6_title">Gestionnaire De Fichiers</string>
+    <string name="app_intro_slider_5_title">Organisateur De Média</string>
+    <string name="app_intro_slider_2_title">Extensions</string>
+    <string name="app_intro_slider_7_text">Avec Kokotime vous pouvez importer vos fichiers de chaines M3u pour les regarder avec notre lecteur integré.</string>
+    <string name="app_intro_slider_8_text">Les sous-titres automatique affichent des sous-titres en plus de 182 langues avec la possibilité de synchroniser.</string>
+
+    <string name="app_intro_slider_6_text">Equipé d\'un getionnaire de fichier il est possible de jouer vos fichiers media et de les manipuler complètement.</string>
+    <string name="app_intro_slider_5_text">Kokotime organisera vos films et séries en affichant des résumé et des images. Dites aurevoir a votre collection de DVD et profitez de tout vos films et séries en un seul lieu.</string>
+    <string name="app_intro_slider_2_text">Compatible avec des extensions Kokotime vous permettra de charger du contenu provenant de n\'importe quel fournisseur médias.</string>
+    <string name="app_intro_slider_3_title">Mentions Legales</string>
+
+    <string name="intro_get_addons">Extensions</string>
+    <string name="intro_accept_terms">Accepter</string>
+
+
+    //dialogs
+    <string name="pro_alert_dialog">Cette fonction est seulement accessible aux utilisateurs premium, vous pouvez devenir premium maintenant pour profiter pleinement de Kokotime</string>
+
+    //credits
+    <string name="moviedb_credits">Since version 2.0.6 , in some cases, Kokotime automatically fetches the data corresponding to the content returned by an addon or local media instead of relying on the info provided by the addon/media this way Kokotime can guarantee user experience. For this Kokotime uses www.themoviedb.org public API</string>
+
+    //Verification strings
+    <string name="verify_unknown_error">Une erreure inconnue s\'est produite, veuillez réessayer</string>
+
+
+    //Preferences titles-descriptions
+
+    <string name="app_intro_title">Intro d\'application</string>
+    <string name="app_intro_summary">Afficher l\'introduction de Kokotime.</string>
+    <string name="installed_version">Version actuelle</string>
+    <string name="direct_play_landscape_title">Jouer directement en paysage</string>
+    <string name="direct_play_landscape_description">Lorsque votre appareil est en paysage Kokotime joueront directement le contenu et vos propesara par des options de lecture.</string>
+
+    <string name="auto_play_next_episode_title">Jouer automatiquement le prochain épisode</string>
+    <string name="auto_play_next_episode_description">Lorsque vous jouez du contenu à base de saisons Kokotime jouer automatiquement le prochain épisode.</string>
+
+
+    <string name="display_featured_movies_title">Aficher la section de films en vedette</string>
+    <string name="display_featured_movies_description">Affiche la section de films en vedette lorsque vous utilisez une extension pour films.</string>
+
+    <string name="display_watching_movies_title">Afficher la section \'continuer à regarder\' des films</string>
+    <string name="display_watching_movies_description">Affiche la section \'continuer à regarder\' pour les extensions de films.</string>
+
+    <string name="display_watching_series_title">Afficher la section \'continuer à regarder\' des séries</string>
+    <string name="display_watching_series_description">Affiche la section \'continuer à regarder\' pour les extensions de séries.</string>
+
+    <string name="display_featured_series_title">Aficher la section de séries en vedette</string>
+    <string name="display_featured_series_description">Affiche la section de films en vedette lorsque vous utilisez une extension pour séries.</string>
+
+
+    <string name="addon_store_url_title">Changer le lien de la boutique d\'extensions</string>
+    <string name="addon_store_url_summary">Le lien de la boutique d\'extensions est le lien que l\'application utilise pour avoir une liste des extensions disponibles pour téléchargement.</string>
+
+    <string name="play_settings_title">Paramètres de lecture</string>
+    <string name="movie_addons_settings_title">Paramètres des extensions de films</string>
+    <string name="series_addons_settings_title">Paramètres des extensions de séries</string>
+
+
+    //preview fragment
+    <string name="currently_watching">Continuer à regarder</string>
+    <string name="featured_content">En Avant</string>
+    <string name="favorites">Mes Favoris</string>
+
+    //main menu
+    <string name="local_movies">Mes Films</string>
+    <string name="tv_shows">Séries</string>
+    <string name="movies">Films</string>
+    <string name="movie_addons">Extensions De Films</string>
+    <string name="series_addons">Extensions De Séries</string>
+    <string name="channel_addons">Extensions De Chaines</string>
+
+    <string name="extra_options">Plus</string>
+
+    //organized media movies
+    <string name="recent_section">Récemment Ajouté</string>
+    <string name="top_rated_section">Meilleurs</string>
+    <string name="my_movies_section">Mes Films</string>
+    <string name="indexing_files">Indexation en cours</string>
+
+    //account activity
+    <string name="premium_subscribe">Prolonger premium</string>
+    <string name="premium_sub_info_title">Inscription premium</string>
+    <string name="account_info_title">Informations de compte</string>
+    <string name="submit">Valider</string>
+    <string name="sign_in">Se Connecter</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_code">Code de changement de mot de passe</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_first_name">Prénom</string>
+    <string name="hint_last_name">Nom</string>
+    <string name="hint_re_type_email">Récrire votre email</string>
+    <string name="mistyped_email">Vos mails ne sont pas identiques.</string>
+    <string name="account_info_email">Email Vérifié :</string>
+    <string name="forgot_password"><u>Mot de passe oublié ?</u></string>
+    <string name="account_info_fullname">Nom Complet :</string>
+    <string name="account_info_creation_date">Date d\'inscription :</string>
+    <string name="account_info_last_login_date">Dernière connexion :</string>
+    <string name="account_info_pro_end_date">Fin d\'abonnement :</string>
+    <string name="account_info_pro_limit_reached">Limite d\'appareils atteinte :</string>
+    <string name="account_info_is_premium">Premium :</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="old_password">Ancien mot de passe</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="new_password_retype">Récrire votre nouveau mot de passe</string>
+    <string name="change">Changer</string>
+    <string name="new_password_no_match">Les nouveaux mot de passe ne sont pas identiques</string>
+    <string name="password_change_success">Mot de passe changé !</string>
+    <string name="connection_error">Erreur de connexion, veuillez réessayer.</string>
+    <string name="log_out">Déconnexion</string>
+    <string name="log_out_error">Erreur de déconnexion</string>
+    <string name="notify_old_user_to_login">Il semble que vous etiez un utilisateur premium avant cette mise à jour, veuillez vous connecter pour activer la version premium.</string>
+    <string name="notify_old_user_to_login_title">Votre compte premium</string>
+    <string name="check_email_for_change_code">Un code de demande de changement de mot de passe a ete envoyer à votre email, veuillez l\'introduire ici pour compléter la demande.</string>
+    <string name="password_forgot_completed">Votre mot de passe a été réinitialiser avec succès, vous recevrez votre nouveau mot de passe par mail prochainement.</string>
+
+
+    //activity downloaded files
+    <string name="activity_downloads_title">Téléchargements</string>
+    <string name="file_deleted">Fichier supprimé !</string>
+    <string name="file_delete_error">Erreur de suppression</string>
+
+    //activity support
+    <string name="activity_support_title">Aide</string>
+    <string name="message_sent">Message envoyé !</string>
+    <string name="fill_in_form">Completez le formulaire correctement SVP.</string>
+    <string name="server_error_unsent">Erreur de serveur, message non envoyé.</string>
+    <string name="unknown_error">Erreur inconnue.</string>
+    <string name="email_hint">Email</string>
+    <string name="subject_hint">Sujet</string>
+    <string name="your_message_hint">Votre message</string>
+
+
+
+    //ad layout
+    <string name="skip_ad">Sauter</string>
+</resources>
