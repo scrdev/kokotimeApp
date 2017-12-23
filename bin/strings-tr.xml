@@ -52,7 +52,8 @@
     <string name="page_favorites">Favoriler</string>
     <string name="page_upcomming">Yaklaşanlar</string>
     <string name="page_recent">Yeni eklenenler</string>
-
+    <string name="continue_watching">İzlemeye devam et</string>
+    
     //main menu strings
     <string name="menu_item_subtitles">Altyazılar</string>
     <string name="menu_item_filemanager">Dosya Yöneticisi</string>
@@ -99,10 +100,13 @@
     <string name="subtitles_outline_color">Kenar rengi</string>
     <string name="subtitles_outline_color_description">altyazı kenar rengi seçin</string>
     <string name="subtitles_switch_text">Otomatik altyazılar</string>
-
-
     <string name="subtitle_styling_category">altyazı şekli</string>
-
+    <string name="red">Kırmızı</string>
+    <string name="green">Yeşil</string>
+    <string name="blue">Mavi</string>
+    <string name="transparent">Şeffaf</string>
+    <string name="set">Set</string>
+    <string name="subtitles_switch_text">Otomatik altyazılar</string>
 
     //addon manager
     <string name="activity_addon_title">Eklenti Mağazası</string>
@@ -189,8 +193,9 @@
     <string name="movie_addons">Filmler</string>
     <string name="series_addons">Diziler</string>
     <string name="channel_addons">Kanallar eklentileri</string>
-
     <string name="extra_options">Daha Fazla</string>
+    <string name="tv_shows">Diziler</string>
+    <string name="movies">Filmler</string>
 
     //organized media movies
     <string name="recent_section">Yeni eklenen</string>
@@ -202,7 +207,7 @@
     <string name="premium_subscribe">Premium al</string>
     <string name="premium_sub_info_title">Premium aboneliği</string>
     <string name="account_info_title">Hesap bilgileri</string>
-    <string name="submit">Submit</string>
+    <string name="submit">Gönder</string>
     <string name="sign_in">Giriş Yap</string>
     <string name="sign_up">Kayıt Ol</string>
     <string name="hint_email">E-mail</string>
@@ -218,7 +223,7 @@
     <string name="account_info_creation_date">Kuruluş tarihi:</string>
     <string name="account_info_last_login_date">Son giriş :</string>
     <string name="account_info_pro_end_date">Abonelik son günü :</string>
-    <string name="account_info_pro_limit_reached">Reached device limit :</string>
+    <string name="account_info_pro_limit_reached">Cihaz sınırına ulaşıldı :</string>
     <string name="account_info_is_premium">Premium kullanıcısı:</string>
     <string name="yes">Evet</string>
     <string name="no">Hayır</string>
@@ -248,7 +253,9 @@
     <string name="fill_in_form">Lütfen eksiksiz doldurun.</string>
     <string name="server_error_unsent">Server hatası, mesaj gönderilemedi.</string>
     <string name="unknown_error">Bilinmeyen hata.</string>
-
+    <string name="email_hint">E-posta</string>
+    <string name="subject_hint">Konu</string>
+    <string name="your_message_hint">Mesajın</string>
 
 
 
