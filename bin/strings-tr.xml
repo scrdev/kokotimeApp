@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="notNow"><u>Şimdi Değil</u></string>
@@ -53,7 +54,7 @@
     <string name="page_upcomming">Yaklaşanlar</string>
     <string name="page_recent">Yeni eklenenler</string>
     <string name="continue_watching">İzlemeye devam et</string>
-    
+
     //main menu strings
     <string name="menu_item_subtitles">Altyazılar</string>
     <string name="menu_item_filemanager">Dosya Yöneticisi</string>
@@ -75,7 +76,7 @@
     <string name="removed_uninstalled_addons">Silinen eklentiler menüden kaldırıldı</string>
     <string name="added_installed_addons">Yüklenen eklentiler menüye eklendi</string>
     <string name="content_by">tarafından</string>
-    
+
     //subtitle strings
     <string name="external_subs_loaded">Dış altyazı eklendi</string>
     <string name="external_subs_error">Altyazı eklenemedi</string>
@@ -113,7 +114,8 @@
     <string name="addon_import_failed">Eklenti yüklenemedi, eklenti bozuk veya bozulmuş olabilir, data.json\'da gerekli bilginin mevcut olduğundan emin olun!</string>
     <string name="addon_import_confirm_replace_title">Eklenti değiştirilsin mi?</string>
     <string name="addon_import_confirm_replace">Aynı ada sahip eklenti mevcut, bu işlem eski eklentinin yerine geçer!</string>
-
+    <string name="addon_find">Bulmak</string>
+    <string name="addon_installed">Kurulmuş</string>
 
     //Pro slider
     <string name="pro_slider_2_text">Bir kere satın aldıktan sonra video aralarında ve uygulamada reklam yok!</string>
@@ -137,8 +139,8 @@
 
     <string name="intro_get_addons">Eklentileri al</string>
     <string name="intro_accept_terms">Kabul et</string>
-    
-    
+
+
     //dialogs
     <string name="pro_alert_dialog">Bu özellik premium kullanıcıları içindir, premium hakkında daha fazla bilgi için tıklayın</string>
 
@@ -149,7 +151,7 @@
     <string name="verify_unknown_error">Onaylamaya çalışırken hata oluştu, lütfen tekrar deneyin</string>
 
 
-    /Preferences titles-descriptions
+    //Preferences titles-descriptions
 
     <string name="app_intro_title">Giriş Ekranı</string>
     <string name="app_intro_summary">Introyu oynat, Kokotime\'ı ilk başlattığınız ekranı görün.</string>
