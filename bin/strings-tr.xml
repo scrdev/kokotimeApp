@@ -1,1 +1,258 @@
- 
+ urces>
+
+    <string name="notNow"><u>Şimdi Değil</u></string>
+
+    <string name="watch_now">Şimdi izle</string>
+    <string name="download">İndir</string>
+    <string name="cast_to_chromecast">Chromecast ile izle </string>
+
+    <string name="export_link"Başka uygulamada aç</string>
+    <string name="universal_cast">Herhangi bir cihaz ile izle</string>
+
+    <string name="low_quality" translatable="false">Düşük kalite</string>
+    <string name="high_quality" translatable="false">Yüksek kalite</string>
+
+    <string name="loading">Yükleniyor</string>
+
+    //activity casting
+    <string name="cast_connected">Bağlı</string>
+    <string name="cast_searching">Cihaz aranıyor</string>
+    <string name="cast_device_ip">Cihaz IP adresi: </string>
+
+    //channel playlist strings
+    <string name="my_channels">Kanallarım</string>
+    <string name="add_local_playlist">m3u dosyası ekle</string>
+    <string name="add_external_playlist">m3u linki ekle</string>
+    <string name="edit_playlist">Listeyi düzenle</string>
+    <string name="no_playlists">Henüz m3u listesi eklemediniz</string>
+    <string name="name_playlist">Liste adı</string>
+    <string name="url_playlist">Url : http://&#8230;</string>
+    <string name="add">Ekle</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil </string>
+    <string name="no_channel_group">Kanal grubu yok</string>
+
+
+    //filemanager
+    <string name="rename">Yeniden adlandır</string>
+    <string name="copy">Kopyala</string>
+    <string name="paste">Yapıştır</string>
+    <string name="cut">Kes</string>
+    <string name="file_items">Itemler</string>
+    <string name="activity_filemanager_title">Dosya yöneticisi</string>
+
+    //video info strings
+    <string name="summary">İçerik Detayı</string>
+    <string name="cast">Yayınla</string>
+    <string name="reviews">İncelemeler</string>
+
+    //addon home page names
+    <string name="page_home">Ana Sayfa</string>
+    <string name="page_search">Ara</string>
+    <string name="page_favorites">Favoriler</string>
+    <string name="page_upcomming">Yaklaşanlar</string>
+    <string name="page_recent">Yeni eklenenler</string>
+
+    //main menu strings
+    <string name="menu_item_subtitles">Altyazılar</string>
+    <string name="menu_item_filemanager">Dosya Yöneticisi</string>
+    <string name="menu_item_channels">Kanallar</string>
+    <string name="menu_item_buy">Premium</string>
+    <string name="menu_item_addon_store">Eklenti Mağazası</string>
+    <string name="menu_item_support">Destek</string>
+    <string name="menu_item_settings">Ayarlar</string>
+    <string name="menu_item_website">Websitesi</string>
+    <string name="menu_item_downloaded">İndirilenler</string>
+
+    <string name="new_update_available">Güncelleme mevcut!</string>
+    <string name="update">Güncelle</string>
+    <string name="index_movies">Film indexle</string>
+    <string name="placeholder_no_movies_indexed_yet">Filmler henüz indexlenmedi</string>
+    <string name="placeholder_no_movies_found">Film bulunamadı</string>
+    <string name="more">daha</string>
+
+    <string name="removed_uninstalled_addons">Silinen eklentiler menüden kaldırıldı</string>
+    <string name="added_installed_addons">Yüklenen eklentiler menüye eklendi</string>
+
+    //subtitle strings
+    <string name="external_subs_loaded">Dış altyazı eklendi</string>
+    <string name="external_subs_error">Altyazı eklenemedi</string>
+    <string name="external_subs_no_video_source">Video kaynağı bulunamadı</string>
+
+    //player strings
+    <string name="cant_load_video">Kaynak yüklenemedi</string>
+    <string name="error_source">Kaynak bulunamadı</string>
+    <string name="no_subtitles_found">Altyazı bulunamadı</string>
+    <string name="no_video_source">Video kaynağı bulunamadı</string>
+    <string name="loading_next_episode">Sonraki bölüm yükleniyor</string>
+
+
+    //subtitle settings
+    <string name="activity_subtitles_title">Altyazılar</string>
+    <string name="language">Dil</string>
+    <string name="language_description">Kullanılacak altyazı dilini seçin</string>
+    <string name="subtitles_background">Arkaplan</string>
+    <string name="subtitles_background_description">Arkaplan rengini seçin</string>
+    <string name="subtitles_text_color">Yazı rengi</string>
+    <string name="subtitles_text_color_description">gösterilecek altyazının rengini seçin</string>
+    <string name="subtitles_outline_color">Kenar rengi</string>
+    <string name="subtitles_outline_color_description">altyazı kenar rengi seçin</string>
+
+
+
+    <string name="subtitle_styling_category">altyazı şekli</string>
+
+
+    //addon manager
+    <string name="activity_addon_title">Eklenti Mağazası</string>
+    <string name="addon_import_successful">Eklenti yüklendi</string>
+    <string name="addon_import_failed">Eklenti yüklenemedi, eklenti bozuk veya bozulmuş olabilir, data.json'da gerekli bilginin mevcut olduğundan emin olun!</string>
+    <string name="addon_import_confirm_replace_title">Eklenti değiştirilsin mi?</string>
+    <string name="addon_import_confirm_replace">Aynı ada sahip eklenti mevcut, bu işlem eski eklentinin yerine geçer!</string>
+
+
+    //Pro slider
+    <string name="pro_slider_2_text">Bir kere satın aldıktan sonra video aralarında ve uygulamada reklam yok!</string>
+    <string name="pro_slider_3_text">Videolarınızı chromecast veya uygun cast cihazına bağlayarak stream keyfini çıkarın</string>
+    <string name="pro_slider_4_text">Taahhüt yok, yılda bir ödeyin, istediğin zaman durdur ya da başlatın, küçük bir ücret karşılığı bir yıllık keyif sürün</string>
+    <string name="pro_slider_5_text">İlginizi mi çekti? Ücretlere ve ödeme seçeneklerine göz atmak için aşağıdaki linke tıklayın. Ödemeyi yaptıktan sonra detayları e-posta adresinde bulabilirsiniz</string>
+
+    //App intro slider
+    <string name="app_intro_slider_8_title">Altyazılar</string>
+    <string name="app_intro_slider_7_title"> Kanallar</string>
+    <string name="app_intro_slider_6_title">Dosya Yöneticisi</string>
+    <string name="app_intro_slider_5_title">Medya organizasyoncusu</string>
+    <string name="app_intro_slider_2_title">Eklentiler</string>
+    <string name="app_intro_slider_7_text">Kanallar desteği ile kendi m3u listenizi Kokotime'a ekleyebilir ve en iyi stream için şahane video oynatıcımızı kullanabilirsiniz</string>
+    <string name="app_intro_slider_8_text">Otomatik altyazı izlediğiniz içerik için 182'den fazla dilde altyazı arar ve oynatır. Altyazı senkronlama özelliği bulunan oynatıcımıza kendi altyazınızı da ekleyebilirsiniz</string>
+
+    <string name="app_intro_slider_6_text">Dosya yöneticimizle medyalarınızı düzenleyebilir veya görüntüleyebilirsiniz</string>
+    <string name="app_intro_slider_5_text">Kokotime yerel medyalarınız hakkında bilgi verecek ve organize edecek yani DVDlere elveda diyip organize medyanların keyfini çıkarın.</string>
+    <string name="app_intro_slider_2_text">3. parti eklentilere açık olan Kokotime eşsiz eklenti sistemimizle rahatça 3. parti eklenti sağlayıcılarından eklenti yüklemenize olanak sağlıyor.</string>
+    <string name="app_intro_slider_3_title">Yasal</string>
+
+    <string name="intro_get_addons">Eklentileri al</string>
+    <string name="intro_accept_terms">Kabul et</string>
+    
+    
+    //dialogs
+    <string name="pro_alert_dialog">Bu özellik premium kullanıcıları içindir, premium hakkında daha fazla bilgi için tıklayın</string>
+
+    //credits
+    <string name="moviedb_credits">since version 2.0.6, in some cases, Kokotime automatically fetches the data corresponding to the content returned by an addon or local media instead of relying on the info provided by the addon/media this way Kokotime can guarantee user experience. For this Kokotime uses www.themoviedb.org public API</string>
+
+    //Verification strings
+    <string name="verify_unknown_error">Onaylamaya çalışırken hata oluştu, lütfen tekrar deneyin</string>
+
+
+    /Preferences titles-descriptions
+
+    <string name="app_intro_title">Giriş Ekranı</string>
+    <string name="app_intro_summary">Introyu oynat, Kokotime'ı ilk başlattığınız ekranı görün.</string>
+    <string name="installed_version">Yüklü versiyon </string>
+    <string name="direct_play_landscape_title">Yatay modda izle</string>
+    <string name="direct_play_landscape_description">Yatay mod etkinken seçenekler gösterilmeyecek fakat video oynatıcıdan direk oynayacak.</string>
+
+    <string name="auto_play_next_episode_title">Otomatik yeni bölüm</string>
+    <string name="auto_play_next_episode_description">Dizi izlerken, video oynatıcı veya cast cihazı otomatik olarak bölüm sonunda sonraki bölümü başlatacak.</string>
+
+
+    <string name="display_featured_movies_title">Önerilen film sekmesini göster</string>
+    <string name="display_featured_movies_description">Eğer sağlayıcının desteği varsa önerilen filmleri oynatır.</string>
+
+    <string name="display_watching_movies_title">Filmleri zlemeye devam et sekmesini göster</string>
+    <string name="display_watching_movies_description">Eklenti açıldığında yarıda bıraktığınız filmleri oynatır</string>
+
+    <string name="display_watching_series_title">Dizileri izlemeye devam et sekmesini göster</string>
+    <string name="display_watching_series_description">Eklenti açıldığında yarıda bıraktığınız dizileri oynatır.</string>
+
+    <string name="display_featured_series_title">Önerilen dizi sekmesini göster</string>
+    <string name="display_featured_series_description">Eğer sağlayıcının desteği varsa önerilen dizileri oynatır.</string>
+
+
+    <string name="addon_store_url_title">Eklenti linkini değiştir</string>
+    <string name="addon_store_url_summary">Eklenti linki yüklü olan eklentileri güncellemenize ve yeni eklentiler kurmanıza yarar.</string>
+
+    <string name="play_settings_title">Oynatıcı ayarları</string>
+    <string name="movie_addons_settings_title">Film eklentileri ayarları</string>
+    <string name="series_addons_settings_title">Dizi eklentileri ayarları</string>
+
+
+    //preview fragment
+    <string name="currently_watching">İzlemeye devam et</string>
+    <string name="featured_content">Önerilen</string>
+    <string name="favorites">Favorilerim</string>
+
+    //main menu
+    <string name="local_movies">Filmlerim</string>
+    <string name="movie_addons">Filmler</string>
+    <string name="series_addons">Diziler</string>
+    <string name="channel_addons">Kanallar eklentileri</string>
+
+    <string name="extra_options">Daha Fazla</string>
+
+    //organized media movies
+    <string name="recent_section">Yeni eklenen</string>
+    <string name="top_rated_section">Yüksek oylu</string>
+    <string name="my_movies_section">Filmlerim</string>
+    <string name="indexing_files">Medyalar indexleniyor</string>
+
+    //account activity
+    <string name="premium_subscribe">Premium al</string>
+    <string name="premium_sub_info_title">Premium aboneliği</string>
+    <string name="account_info_title">Hesap bilgileri</string>
+    <string name="submit">Submit</string>
+    <string name="sign_in">Giriş Yap</string>
+    <string name="sign_up">Kayıt Ol</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_code">Şifre değiştirme kodu</string>
+    <string name="hint_password">Şifre</string>
+    <string name="hint_first_name">Ad</string>
+    <string name="hint_last_name">Soyad</string>
+    <string name="hint_re_type_email">E-maili Tekrar Gir</string>
+    <string name="mistyped_email">E-mailler eşleşmiyor.</string>
+    <string name="account_info_email">Onaylanmış E-mail :</string>
+    <string name="forgot_password"><u>Şifreyi mi unuttunuz?</u></string>
+    <string name="account_info_fullname">Tam Ad:</string>
+    <string name="account_info_creation_date">Kuruluş tarihi:</string>
+    <string name="account_info_last_login_date">Son giriş :</string>
+    <string name="account_info_pro_end_date">Abonelik son günü :</string>
+    <string name="account_info_pro_limit_reached">Reached device limit :</string>
+    <string name="account_info_is_premium">Premium kullanıcısı:</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="old_password">Eski şifre</string>
+    <string name="new_password">Yeni şifre</string>
+    <string name="new_password_retype">Yeni şifreyi tekrar gir</string>
+    <string name="change">Değiştir</string>
+    <string name="new_password_no_match">Şifreler eşleşmiyor.</string>
+    <string name="password_change_success">Şifre değiştirildi!</string>
+    <string name="connection_error">Bağlantı hatası, daha sonra deneyin.</string>
+    <string name="log_out">Çıkış yap</string>
+    <string name="log_out_error">Çıkış yapılamadı daha sonra deneyin</string>
+    <string name="notify_old_user_to_login">Güncellemeden önce premiumunuz varmış gibi gözüküyor aktive etmek için tekrar giriş yapmalısınız. Kullanıcı adınız e-mailiniz ve şifreniz önceki aktivasyon kodunuz..</string>
+    <string name="notify_old_user_to_login_title">Premium hesabınız</string>
+    <string name="check_email_for_change_code">İsteğinizi gerçekleştirmek için e-mailinize girip şifre değiştirme kodunuzu alın</string>
+    <string name="password_forgot_completed"> Sıfırlama başarılı yeni şifreniz için e-mailinize girin.</string>
+
+
+    //activity downloaded files
+    <string name="activity_downloads_title">İndirilenler</string>
+    <string name="file_deleted">Dosya silindi</string>
+    <string name="file_delete_error">Dosya silinemedi, tekrar deneyin</string>
+
+    //activity support
+    <string name="activity_support_title">Destek</string>
+    <string name="message_sent">Mesaj gönderildi!</string>
+    <string name="fill_in_form">Lütfen eksiksiz doldurun.</string>
+    <string name="server_error_unsent">Server hatası, mesaj gönderilemedi.</string>
+    <string name="unknown_error">Bilinmeyen hata.</string>
+
+
+
+
+    //ad layout
+    <string name="skip_ad">Geç</string>
+
+
+</resources>
