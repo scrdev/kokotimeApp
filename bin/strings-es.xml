@@ -1,8 +1,6 @@
 <resources>
 
-    <string name="notNow"><u>Ahora no</u></string>
-    <string name="defaultUpdate" translatable="false">Está disponible una nueva actualización de Kokotime, la cual trae muchas nuevas caracteríticas. ¡ Así que no dudes en actualizar a la última versión, especialmente si estás usando una versión antigua de Kokotime !</string>
-
+     <string name="notNow"><u>Ahora no</u></string>
 
 
     <string name="watch_now">Ver Ahora</string>
@@ -12,8 +10,7 @@
     <string name="export_link">Exportar vínculo a otra aplicación</string>
     <string name="universal_cast">Proyectar a cualquier dispositivo</string>
 
-    <string name="low_quality" translatable="false">Calidad baja</string>
-    <string name="high_quality" translatable="false">Calidad alta</string>
+
 
     <string name="loading">Cargando</string>
 
@@ -85,7 +82,6 @@
 
     //player strings
     <string name="cant_load_video">No se puede cargar el video desde la fuente. Por favor, intenta con otra desde el menú</string>
-    <string name="error_source">No se encontraron fuentes para el contenido seleccionado</string>
     <string name="no_subtitles_found">No se encontraron subtítulos para el idioma seleccionado</string>
     <string name="no_video_source">El complemento no proporcionó ninguna fuente de video</string>
     <string name="loading_next_episode">Cargando siguiente episodio de la temporada</string>
@@ -266,6 +262,8 @@
 
     //ad layout
     <string name="skip_ad">Saltar anuncio</string>
-
+    <string name="season">temporada</string>
+    <string name="addon_find">Encontrar</string>
+    <string name="addon_installed">Instalado</string>
 
 </resources>
