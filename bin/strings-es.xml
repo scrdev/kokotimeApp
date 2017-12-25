@@ -1,6 +1,6 @@
 <resources>
 
-     <string name="notNow"><u>Ahora no</u></string>
+    <string name="notNow"><u>Ahora no</u></string>
 
 
     <string name="watch_now">Ver Ahora</string>
@@ -43,7 +43,7 @@
 
     //video info strings
     <string name="summary">Sinopsis</string>
-    <string name="cast">Reaprto</string>
+    <string name="cast">Reparto</string>
     <string name="reviews">Reseñas</string>
 
     //addon home page names
@@ -60,7 +60,7 @@
     <string name="menu_item_channels">Canales</string>
     <string name="menu_item_buy">Premium</string>
     <string name="menu_item_addon_store">Tienda de Complementos</string>
-    <string name="menu_item_support">Suporte</string>
+    <string name="menu_item_support">Soporte</string>
     <string name="menu_item_settings">Ajustes</string>
     <string name="menu_item_website">Sitio Web</string>
     <string name="menu_item_downloaded">Descargas</string>
@@ -129,7 +129,7 @@
     <string name="app_intro_slider_5_title">Organizador de medios</string>
     <string name="app_intro_slider_2_title">Complementos</string>
     <string name="app_intro_slider_7_text">Con soporte para canales, puedes importar a Kokotime tus listas de reproducción m3u y transmitirlas con nuestro reproductor de video totalmente optimizado para obtener la mejor experiencia de transmisión.</string>
-    <string name="app_intro_slider_8_text">La caracterísitica integrada de subtítulos automáticos intentará encontrar y cargar subtítulos para el contenido que estás reproduciendo en más de 182 idiomas, con la posibilidad de personalización completa. También puedes cargar tus propios subtítulos. Nuestro reproductor incorporado soperta la sincronización de subtítulos.</string>
+    <string name="app_intro_slider_8_text">La caracterísitica integrada de subtítulos automáticos intentará encontrar y cargar subtítulos para el contenido que estás reproduciendo en más de 182 idiomas, con la posibilidad de personalización completa. También puedes cargar tus propios subtítulos. Nuestro reproductor incorporado soporta la sincronización de subtítulos.</string>
 
     <string name="app_intro_slider_6_text">Con un administrador de archivos totalmente funcional incorporado, podrás navegar a través de tus archivos multimedia y reproducirlos.</string>
     <string name="app_intro_slider_5_text">Kokotime se encargará de organizar tus medios locales o externos, mostrando hermosas ilustraciones e información sobre tus películas o series. Ya puedes decirle adíos a los DVDs y disfrutar de una biblioteca organizada.</string>
@@ -141,10 +141,10 @@
 
 
     //dialogs
-    <string name="pro_alert_dialog">Esta característica solo está disponible para usuarios premium. Haz clic en Hazte Premium para obtener más información al respecto.</string>
+    <string name="pro_alert_dialog">Esta característica solo está disponible para usuarios premium. Haz clic en Hazte Premium para obtener más información sobre las funciones de usuarios premium.</string>
 
     //credits
-    <string name="moviedb_credits">Desde la versión 2.0.6, en algunos casos, Kokotime recupera automáticamente los datos correspondientes al contenido devuelto por un complemento o por los medios locales, en lugar de depender de la información proporcionada por el mismo complemento/medio. Así, Kokotime garantiza la experiencia de usuario. Para esto, Kokotime usa la API pública de www.themoviedb.org</string>
+    <string name="moviedb_credits">Desde la versión 2.0.6, en algunos casos, Kokotime recupera automáticamente los datos correspondientes al contenido devuelto por un complemento o por los medios locales, en lugar de depender de la información proporcionada por complemento/medio en sí. De esta manera, Kokotime garantiza la experiencia de usuario. Para esto, Kokotime usa la API pública de www.themoviedb.org</string>
 
     //Verification strings
     <string name="verify_unknown_error">Ocurrió un error desconocido al intentar verificar. Por favor, inténtalo de nuevo.</string>
@@ -156,7 +156,7 @@
     <string name="app_intro_summary">Lanza la introducción a la app, mostrada la primera vez que iniciaste Kokotime.</string>
     <string name="installed_version">Versión instalada</string>
     <string name="direct_play_landscape_title">Reproducción directa en paisaje</string>
-    <string name="direct_play_landscape_description">Cuando tu dispositivo se encuentre en modo paisaje, no se mostrará el menú con las opciones de reproducción, sino que iniciará directamente con la reproducción del video solicitado usando el reproductor de la aplicación.</string>
+    <string name="direct_play_landscape_description">Cuando tu dispositivo se encuentre en modo paisaje, no se mostrará el menú con las opciones de reproducción, sino que se iniciará directamente con la reproducción del video solicitado usando el reproductor de la aplicación.</string>
 
     <string name="auto_play_next_episode_title">Reproducir automáticamente el siguiente episodio</string>
     <string name="auto_play_next_episode_description">Al usar un complemento de series, se intentará reproducir automáticamente el siguiente episodio al finalizar el actual.</string>
@@ -176,7 +176,7 @@
 
 
     <string name="addon_store_url_title">Cambiar enlace del repositorio de complementos</string>
-    <string name="addon_store_url_summary">El URL de la tienda de complementos es usado por el administrador de complementod para solicitar complementos disponibles, actualizaciones de complementos, etc.</string>
+    <string name="addon_store_url_summary">El URL de la tienda de complementos es usado por el administrador de complementos para solicitar complementos disponibles, actualizaciones de complementos, etc.</string>
 
     <string name="play_settings_title">Ajustes de reproducción</string>
     <string name="movie_addons_settings_title">Ajustes de complementos de películas</string>
@@ -262,7 +262,7 @@
 
     //ad layout
     <string name="skip_ad">Saltar anuncio</string>
-    <string name="season">temporada</string>
+    <string name="season">Temporada</string>
     <string name="addon_find">Encontrar</string>
     <string name="addon_installed">Instalado</string>
 
