@@ -4,7 +4,7 @@
 
     <string name="watch_now">Regarder</string>
     <string name="download">Télécharger</string>
-    <string name="cast_to_chromecast">Regarder sur chromecast</string>
+    <string name="cast_to_chromecast">Regarder sur Chromecast</string>
 
     <string name="export_link">Exporter le lien</string>
     <string name="universal_cast">Regarder sur un autre appareil</string>
@@ -42,6 +42,8 @@
     <string name="summary">Résumé</string>
     <string name="cast">Acteurs</string>
     <string name="reviews">Avis</string>
+    <string name="season">Saison</string>
+
 
     //addon home page names
     <string name="page_home">Accueil</string>
@@ -53,7 +55,7 @@
 
     //main menu strings
     <string name="menu_item_subtitles">Sous-titres</string>
-    <string name="menu_item_filemanager">Gestionnaire</string>
+    <string name="menu_item_filemanager">Gestionnaire de fichiers</string>
     <string name="menu_item_channels">Chaînes</string>
     <string name="menu_item_buy">Premium</string>
     <string name="menu_item_addon_store">Extensions</string>
@@ -69,7 +71,7 @@
     <string name="placeholder_no_movies_found">Aucun film trouvé</string>
     <string name="more">Plus</string>
     <string name="removed_uninstalled_addons">Les extensions supprimé ont été retiré du menu.</string>
-    <string name="added_installed_addons">Les extensions téléchqrgé ont été ajouté qu menu.</string>
+    <string name="added_installed_addons">Les extensions téléchqrgé ont été ajouté au menu.</string>
     <string name="content_by">Contenu de </string>
 
     //subtitle strings
@@ -79,7 +81,7 @@
 
     //player strings
     <string name="cant_load_video">La source vidéo est incorrecte</string>
-    <string name="no_subtitles_found">No subtitles found for the selected language.</string>
+    <string name="no_subtitles_found">Pas de sous-titres disponible pour la langue choisie.</string>
     <string name="no_video_source">Aucune source fourni par l\'extensions.</string>
     <string name="loading_next_episode">Chargement du prochain épisode.</string>
     <string name="load_local_subtitles">Rajouter des sous-titres</string>
@@ -128,11 +130,11 @@
     <string name="app_intro_slider_5_title">Organisateur De Média</string>
     <string name="app_intro_slider_2_title">Extensions</string>
     <string name="app_intro_slider_7_text">Avec Kokotime vous pouvez importer vos fichiers de chaines M3u pour les regarder avec notre lecteur integré.</string>
-    <string name="app_intro_slider_8_text">Les sous-titres automatique affichent des sous-titres en plus de 182 langues avec la possibilité de synchroniser.</string>
+    <string name="app_intro_slider_8_text">Les sous-titres automatique affichent des sous-titres en plus de 182 langues avec la possibilité de les synchroniser.</string>
 
-    <string name="app_intro_slider_6_text">Equipé d\'un getionnaire de fichier il est possible de jouer vos fichiers media et de les manipuler complètement.</string>
+    <string name="app_intro_slider_6_text">Equipé d\'un getionnaire de fichier il est possible de jouer vos fichiers media et de les manipuler complètement dans l\'application.</string>
     <string name="app_intro_slider_5_text">Kokotime organisera vos films et séries en affichant des résumé et des images. Dites aurevoir a votre collection de DVD et profitez de tout vos films et séries en un seul lieu.</string>
-    <string name="app_intro_slider_2_text">Compatible avec des extensions Kokotime vous permettra de charger du contenu provenant de n\'importe quel fournisseur médias.</string>
+    <string name="app_intro_slider_2_text">Compatible avec des extensions, Kokotime vous permettra de charger du contenu provenant de n\'importe quel fournisseur média.</string>
     <string name="app_intro_slider_3_title">Mentions Legales</string>
 
     <string name="intro_get_addons">Extensions</string>
@@ -155,13 +157,13 @@
     <string name="app_intro_summary">Afficher l\'introduction de Kokotime.</string>
     <string name="installed_version">Version actuelle</string>
     <string name="direct_play_landscape_title">Jouer directement en paysage</string>
-    <string name="direct_play_landscape_description">Lorsque votre appareil est en paysage Kokotime joueront directement le contenu et vos propesara par des options de lecture.</string>
+    <string name="direct_play_landscape_description">Lorsque votre appareil est en paysage Kokotime jouera directement le contenu et vous propesara pas des options de lecture.</string>
 
     <string name="auto_play_next_episode_title">Jouer automatiquement le prochain épisode</string>
-    <string name="auto_play_next_episode_description">Lorsque vous jouez du contenu à base de saisons Kokotime jouer automatiquement le prochain épisode.</string>
+    <string name="auto_play_next_episode_description">Lorsque vous jouez du contenu à base de saisons Kokotime jouera automatiquement le prochain épisode.</string>
 
 
-    <string name="display_featured_movies_title">Aficher la section de films en vedette</string>
+    <string name="display_featured_movies_title">Afficher la section de films en vedette</string>
     <string name="display_featured_movies_description">Affiche la section de films en vedette lorsque vous utilisez une extension pour films.</string>
 
     <string name="display_watching_movies_title">Afficher la section \'continuer à regarder\' des films</string>
@@ -175,7 +177,7 @@
 
 
     <string name="addon_store_url_title">Changer le lien de la boutique d\'extensions</string>
-    <string name="addon_store_url_summary">Le lien de la boutique d\'extensions est le lien que l\'application utilise pour avoir une liste des extensions disponibles pour téléchargement.</string>
+    <string name="addon_store_url_summary">Le lien de la boutique d\'extensions est le lien que l\'application utilise pour avoir une liste des extensions disponibles en téléchargement.</string>
 
     <string name="play_settings_title">Paramètres de lecture</string>
     <string name="movie_addons_settings_title">Paramètres des extensions de films</string>
@@ -261,4 +263,70 @@
 
     //ad layout
     <string name="skip_ad">Sauter</string>
+    <string name="addon_not_responding_title">Aucune réponse</string>
+    <string name="addon_not_responding_description">L\'extension n\'a pas repondu correctement, verifier bien que cette extension est disponible dans votre pays ou bien que vous avez une connection fiable.</string>
+    <string name="enter_repo_url_title">Entrer un lien de boutique d\'extension</string>
+    <string name="enter_repo_url_ok">Sauvegarder</string>
+    <string name="enter_repo_url_error">Veuillez rentrer un lien de boutique valide. Pour plus d\'informations à propos des boutiques d\'extensions cliquez ici !</string>
+    <string name="enter_repo_url_saved">Le lien que vous avez rentrer est sauvegarder, rafraichissez la page pour faire apparaitre les extensions disponible</string>
+    <string name="incompatible_addon_old_app">Cette extension n\'est pas compatible avec votre version de Kokotime</string>
+    <string name="install_anyways">Installer</string>
+    <string name="error_loading_addons">Une erreur s\'est produite, veuillez re-éssayer ou verifier le lien de la boutique d\'extensions dans les paramétres</string>
+    <string name="error_installing_addon">Une erreur s\'est produite lors de l\'installation</string>
+    <string name="pro_limit_reached">Vous avez atteint la limite autorisé d\'appareils par compte. Déconnectez un de vos appareils pour utiliser la version premium ici.</string>
+    <string name="faq_title">Visiter le FAQ/Aide</string>
+    <string name="faq_description">Il semble que ce que vous demandez a déja été demandé auparavant, vérifiez bien qu\'une explication n\'est pas disponible sur notre site avant d\'envoyer. Cliquez ici pour visiter la page d\'aide.</string>
+    <string name="send">Envoyer</string>
+    <string name="preference_category_local_library">Librairie Locale</string>
+    <string name="no_movies_found">Aucun film trouvé</string>
+    <string name="no_shows_found">Aucune série trouvé</string>
+    <string name="not_yet_indexed">Librairie n\'as pas encore été indexé</string>
+    <string name="all">Tout</string>
+    <string name="dialog_storage_permissions_title">Besoin de permission</string>
+    <string name="dialog_storage_permissions_text">Afin d\'utiliser cette partie il faut accepter les permissions d\'accès aux fichiers externe.</string>
+    <string name="dialog_storage_permissions_action_one">Accepter maintenant</string>
+    <string name="dialog_storage_permissions_action_two">Plus tard</string>
+    <string name="preference_title_force_indexation">Forcer une indexation des fichiers</string>
+    <string name="preference_description_force_indexation">Ici vous pouvez forcer une indexation des fichiers lorsqu\'elle ne s\'effectue pas automatiquement.</string>
+    <string name="about">À Propos</string>
+    <string name="installed_addons">Extensions installée</string>
+    <string name="no_addons_installed">Pas d\'extensions installée</string>
+    <string name="searching">Recherche en cours …</string>
+    <string name="header_username_default">Se connecter</string>
+    <string name="header_email_default">Aucun compte</string>
+    <string name="header_login_error">Erreur de connexion</string>
+    <string name="main_menu_section_home">Accueil</string>
+    <string name="main_menu_section_more">Plus</string>
+    <string name="main_menu_welcome_message">Bienvenue</string>
+    <string name="global_search_all_filter">Tout</string>
+    <string name="global_search_local_media_filter">Localement</string>
+    <string name="global_search_addons_filter">Extensions disponible</string>
+    <string name="global_search_movies_filter">Films</string>
+    <string name="global_search_shows_filter">Séries</string>
+    <string name="global_search_default_placeholder">Rechercher du contenu sur Kokotime.</string>
+    <string name="global_search_no_results_placeholder">Aucun resultat correspond à votre recherche.</string>
+    <string name="local_media">Media Interne</string>
+    <string name="no_media_found">Aucun fichier trouvé</string>
+    <string name="error_updating_addons_notification_title">Erreur de mise a jour</string>
+    <string name="error_updating_addons_notification_msg">Une ou plusieurs extensions ne se sont pas mis à jour dû à une différence de version, veillez à garder l\'application à jour.</string>
+    <string name="updating_addons_title">Mise à jour des extensions</string>
+    <string name="updating_addons_msg">Mise à jour des extensions via la boutique des extensions liée à l\'application.</string>
+    <string name="addons_updated_msg">Quelques-unes de vos extensions ont ete mis à jour via votre boutique d\'extension.</string>
+    <string name="addons_updated_title">Extensions mises à jour</string>
+    <string name="no_movie_addons_installed">Aucune extension de films n\'est installé</string>
+    <string name="no_shows_addons_installed">Aucune extension de series n\'est installé</string>
+    <string name="global_search_filter_location">Rechercher dans :</string>
+    <string name="global_search_filter_type">Type :</string>
+    <string name="global_search_filter_results_count">Nombre par source :</string>
+    <string name="purchase_now">Acheter</string>
+    <string name="free">Gratuit</string>
+    <string name="check_update">"Verifier si une nouvelle version de Kokotime est disponible. "</string>
+    <string name="checking">En cours</string>
+    <string name="app_up_to_date">Vous avez la dernière version disponible.</string>
+    <string name="videos">Videos</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="yesterday">Hier</string>
+    <string name="few_minutes_ago">Il y a quelques minutes</string>
+    <string name="few_hours_ago">Il y a quelques heures</string>
+    <string name="few_days_ago">Il y a quelques jours</string>
 </resources>
