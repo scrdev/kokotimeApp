@@ -23,7 +23,7 @@
     <string name="add_local_playlist">Add m3u file</string>
     <string name="add_external_playlist">Add m3u url</string>
     <string name="edit_playlist">Edit playlist</string>
-    <string name="no_playlists">You have\'nt added any m3u playlists yet</string>
+    <string name="no_playlists">You haven\'t added any m3u playlists yet</string>
     <string name="name_playlist">Playlist name</string>
     <string name="url_playlist">Url : http://&#8230;</string>
     <string name="add">Add</string>
@@ -41,10 +41,13 @@
     <string name="activity_filemanager_title">Filemanager</string>
 
     //video info strings
+    <string name="about">About</string>
     <string name="summary">Summary</string>
     <string name="cast">Cast</string>
     <string name="reviews">Reviews</string>
     <string name="season">Season</string>
+    <string name="purchase_now">Buy now</string>
+    <string name="free">Free</string>
 
     //addon home page names
     <string name="page_home">Home</string>
@@ -53,6 +56,10 @@
     <string name="page_upcomming">Upcoming</string>
     <string name="page_recent">Recently Added</string>
     <string name="continue_watching">Continue watching</string>
+
+    //addon page strings
+    <string name="addon_not_responding_title">No response</string>
+    <string name="addon_not_responding_description">The add-on did not respond correctly, check your internet connection and make sure this add-on is available in your country ! It is also possible that the service provider is down temporarily.</string>
 
     //main menu strings
     <string name="menu_item_subtitles">Subtitles</string>
@@ -65,15 +72,41 @@
     <string name="menu_item_website">Website</string>
     <string name="menu_item_downloaded">Downloaded</string>
 
-    <string name="new_update_available">New update available !</string>
+    <string name="installed_addons">Installed Add-ons</string>
+    <string name="new_update_available">New app update is available!</string>
     <string name="update">Update</string>
     <string name="index_movies">Index Movies</string>
     <string name="placeholder_no_movies_indexed_yet">Movies not yet indexed</string>
-    <string name="placeholder_no_movies_found">No movies found</string>
+    <string name="placeholder_no_movies_found">No movies were found</string>
     <string name="more">more</string>
     <string name="removed_uninstalled_addons">Uninstalled add-ons removed from menu.</string>
     <string name="added_installed_addons">Installed add-ons added to menu.</string>
     <string name="content_by">Content by </string>
+    <string name="no_addons_installed">No add-ons installed.</string>
+    <string name="no_movie_addons_installed">No movie add-ons installed.</string>
+    <string name="no_shows_addons_installed">No tv-show add-ons installed.</string>
+
+    <string name="searching">Searching &#8230;</string>
+    <string name="header_username_default">Click to log-in</string>
+    <string name="header_email_default">No account</string>
+    <string name="header_login_error">Error logging-in</string>
+    <string name="main_menu_section_home">Home</string>
+    <string name="main_menu_section_more">More</string>
+    <string name="main_menu_welcome_message">Welcome Back</string>
+
+
+    //global search strings
+    <string name="global_search_filter_location">Search in :</string>
+    <string name="global_search_filter_type">Media type :</string>
+    <string name="global_search_filter_results_count">Results per source :</string>
+
+    <string name="global_search_all_filter">All</string>
+    <string name="global_search_local_media_filter">Local Storage</string>
+    <string name="global_search_addons_filter">Installed Addons</string>
+    <string name="global_search_movies_filter">Movies</string>
+    <string name="global_search_shows_filter">Tv-Shows</string>
+    <string name="global_search_default_placeholder">Search media content on Kokotime</string>
+    <string name="global_search_no_results_placeholder">Sorry, no media was found</string>
 
     //subtitle strings
     <string name="external_subs_loaded">External subtitles loaded successfully</string>
@@ -116,10 +149,24 @@
     <string name="addon_import_confirm_replace">An addon with the same name already exists, installing this addon will replace or update the old one !</string>
     <string name="addon_find">Find</string>
     <string name="addon_installed">Installed</string>
+    <string name="enter_repo_url_title">Enter a store repository url</string>
+    <string name="enter_repo_url_ok">Set store</string>
+    <string name="enter_repo_url_error">Please enter a valid repository url, for more info on store urls click here to visit our website.</string>
+    <string name="enter_repo_url_saved">The store url you entered has been set, refresh the page to view the add-ons available for download.</string>
+    <string name="incompatible_addon_old_app">This addon was designed for a newer version of Kokotime, please update the app to install it.</string>
+    <string name="install_anyways">Install anyways</string>
+    <string name="error_loading_addons">Error fetching add-ons from your saved repository url, please retry in a few moments or check the store url you entered in the settings.</string>
+    <string name="error_installing_addon">An error occurred while installing the add-on</string>
+    <string name="error_updating_addons_notification_title">Error updating add-ons</string>
+    <string name="error_updating_addons_notification_msg">Some add-ons did not update because your app is not up to date, please update your app !</string>
+    <string name="updating_addons_title">Updating Add-ons</string>
+    <string name="updating_addons_msg">Updating installed Add-ons from the linked add-on store.</string>
+    <string name="addons_updated_title">Add-ons updated</string>
+    <string name="addons_updated_msg">Some of your add-ons were updated from the linked add-on store.</string>
 
     //Pro slider
     <string name="pro_slider_2_text">Once you go pro no more annoying ads between each video or throughout the whole app now and for ad placements to come !</string>
-    <string name="pro_slider_3_text">Cast videos to your chromecast or to any other device with a native built in casting system for the best streaming experience</string>
+    <string name="pro_slider_3_text">Cast videos to your Chromecast or to any other device with a native built in casting system for the best streaming experience</string>
     <string name="pro_slider_4_text">No engagements, pay per year, stop and start when you like, enjoy a full year service for a small affordable price</string>
     <string name="pro_slider_5_text">Does all this sound interesting ? click the button below to be directed to our website to check the price and possible payment methods. After payment you will receive your account credentials to the email that made the payment.</string>
 
@@ -156,6 +203,9 @@
     <string name="app_intro_title">App intro</string>
     <string name="app_intro_summary">Launch the app intro,displayed first time you started up Kokotime.</string>
     <string name="installed_version">Installed version</string>
+    <string name="check_update">Check for updates</string>
+    <string name="checking">Checking</string>
+    <string name="app_up_to_date">You are running the latest version !</string>
     <string name="direct_play_landscape_title">Direct play in landscape</string>
     <string name="direct_play_landscape_description">When your device is in landscape mode the app will not show a play options menu but will directly play the requested video using the in app player.</string>
 
@@ -182,7 +232,9 @@
     <string name="play_settings_title">Play settings</string>
     <string name="movie_addons_settings_title">Movie addons settings</string>
     <string name="series_addons_settings_title">Series addons settings</string>
-
+    <string name="preference_category_local_library">Local Library</string>
+    <string name="preference_title_force_indexation">Force library indexation</string>
+    <string name="preference_description_force_indexation">Here you can force a library indexation when the app doesn\'t automatically do it. The app usually does this automatically when new files are introduced to the system.</string>
 
     //preview fragment
     <string name="currently_watching">Currently Watching</string>
@@ -190,20 +242,33 @@
     <string name="favorites">My Favorites</string>
 
     //main menu
+    <string name="local_media">Local Media</string>
     <string name="local_movies">My Movies</string>
     <string name="tv_shows">TV Shows</string>
+    <string name="videos">Videos</string>
     <string name="movies">Movies</string>
     <string name="movie_addons">Movie Addons</string>
     <string name="series_addons">TV Show Addons</string>
     <string name="channel_addons">Channel Addons</string>
-
     <string name="extra_options">More</string>
+    <string name="no_movies_found">No movies found</string>
+    <string name="no_media_found">No media found</string>
+    <string name="no_shows_found">No shows found</string>
+    <string name="not_yet_indexed">Media not yet indexed</string>
 
-    //organized media movies
+    //short videos strings
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="few_minutes_ago">A few minutes ago</string>
+    <string name="few_hours_ago">A few hours ago</string>
+    <string name="few_days_ago">A few days ago</string>
+
+    //organized media
     <string name="recent_section">Recently Added</string>
     <string name="top_rated_section">Top Rated</string>
-    <string name="my_movies_section">My Movies</string>
     <string name="indexing_files">Indexing media files</string>
+    <string name="all">All</string>
+
 
     //account activity
     <string name="premium_subscribe">Extend premium</string>
@@ -242,7 +307,7 @@
     <string name="notify_old_user_to_login_title">Your premium account</string>
     <string name="check_email_for_change_code">Please check your email for the password change code and enter it to complete your request.</string>
     <string name="password_forgot_completed">Your password has been reset successfully. Check your inbox for your new password.</string>
-
+    <string name="pro_limit_reached">You have currently reached the maximum device limit for premium users, premium features will not be active on this device until you log out from one of your other devices</string>
 
     //activity downloaded files
     <string name="activity_downloads_title">Downloads</string>
@@ -252,17 +317,27 @@
     //activity support
     <string name="activity_support_title">Support</string>
     <string name="message_sent">Message sent !</string>
-    <string name="fill_in_form">Please fill in the for correctly.</string>
+    <string name="fill_in_form">Please fill in the form correctly.</string>
     <string name="server_error_unsent">Server error, message not sent.</string>
     <string name="unknown_error">Unknown error.</string>
     <string name="email_hint">Email</string>
     <string name="subject_hint">Subject</string>
     <string name="your_message_hint">Your message</string>
+    <string name="faq_title">Check out the help/FAQ</string>
+    <string name="faq_description">It seems like what you are asking might have already been asked in the FAQ of our website, please check if your question has already been answered on the FAQ by clicking here !</string>
+    <string name="send">Send</string>
 
 
+    //dialogs
+    <string name="dialog_storage_permissions_title">Need storage permissions</string>
+    <string name="dialog_storage_permissions_text">In order to use this feature Kokotime needs permission to access your external storage.</string>
+    <string name="dialog_storage_permissions_action_one">OK, do it now</string>
+    <string name="dialog_storage_permissions_action_two">Maybe later</string>
 
     //ad layout
     <string name="skip_ad">Skip ad</string>
+    <string name="my_movies_section">My Movies</string>
+
 
 
 </resources>
