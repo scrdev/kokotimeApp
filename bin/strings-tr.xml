@@ -10,8 +10,6 @@
     <string name="export_link">Başka uygulamada aç</string>
     <string name="universal_cast">Herhangi bir cihaz ile izle</string>
 
-    <string name="low_quality" translatable="false">Düşük kalite</string>
-    <string name="high_quality" translatable="false">Yüksek kalite</string>
 
     <string name="loading">Yükleniyor</string>
 
@@ -43,9 +41,10 @@
     <string name="activity_filemanager_title">Dosya yöneticisi</string>
 
     //video info strings
-    <string name="summary">İçerik Detayı</string>
-    <string name="cast">Yayınla</string>
-    <string name="reviews">İncelemeler</string>
+    <string name="summary">Hakkında</string>
+    <string name="cast">Oyuncular</string>
+    <string name="reviews">Yorumlar</string>
+    <string name="season">Sezon</string>
 
     //addon home page names
     <string name="page_home">Ana Sayfa</string>
@@ -84,11 +83,11 @@
 
     //player strings
     <string name="cant_load_video">Kaynak yüklenemedi</string>
-    <string name="error_source">Kaynak bulunamadı</string>
     <string name="no_subtitles_found">Altyazı bulunamadı</string>
     <string name="no_video_source">Video kaynağı bulunamadı</string>
     <string name="loading_next_episode">Sonraki bölüm yükleniyor</string>
-
+    <string name="load_local_subtitles">Load local subtitles</string>
+    <string name="sync_subtitles">Sync subtitles</string>
 
     //subtitle settings
     <string name="activity_subtitles_title">Altyazılar</string>
@@ -262,6 +261,72 @@
 
     //ad layout
     <string name="skip_ad">Geç</string>
+    <string name="addon_not_responding_title">No response</string>
+    <string name="enter_repo_url_saved">The store url you entered has been set, refresh the page to view the add-ons available for download.</string>
+    <string name="incompatible_addon_old_app">This addon was designed for a newer version of kokotime are you sure you want to install it ? Errors might occur, you should probably update the app first.</string>
+    <string name="install_anyways">Install anyways</string>
+    <string name="error_loading_addons">Error fetching add-ons from your saved repository url, please retry in a few moments or check the store url you entered in the settings.</string>
+    <string name="error_installing_addon">An error occurred while installing the add-on</string>
+    <string name="pro_limit_reached">You have currently reached the maximum device limit for premium users, premium features will not be active on this device until you log out from one of your other devices</string>
+    <string name="faq_title">Check out the help/FAQ</string>
+    <string name="faq_description">It seems like what you are asking might have already been asked in the FAQ of our website, please check if your question has already been answered on the FAQ by clicking here !</string>
+    <string name="send">Send</string>
+    <string name="addon_not_responding_description">The add-on did not respond correctly, check your internet connection and make sure this add-on is available in your country ! It is also possible that the service provider is down temporarily.</string>
+    <string name="enter_repo_url_ok">Set store</string>
+    <string name="enter_repo_url_title">Enter a store repository url</string>
+    <string name="enter_repo_url_error">Please enter a valid repository url, for more info on store urls click here to visit our website.</string>
+    <string name="preference_category_local_library">Local Library</string>
+    <string name="no_movies_found">No movies found</string>
+    <string name="no_shows_found">No shows found</string>
+    <string name="not_yet_indexed">Media not yet indexed</string>
+    <string name="all">All</string>
+    <string name="dialog_storage_permissions_title">Need storage permissions</string>
+    <string name="dialog_storage_permissions_text">In order to use this feature Kokotime needs permission to access your external storage.</string>
+    <string name="dialog_storage_permissions_action_one">OK, do it now</string>
+    <string name="dialog_storage_permissions_action_two">Maybe later</string>
+    <string name="preference_title_force_indexation">Force library indexation</string>
+    <string name="preference_description_force_indexation">Here you can force a library indexation when the app doesn\'t automatically do it. The app usually does this automatically when new files are introduced to the system.</string>
+    <string name="about">About</string>
+    <string name="installed_addons">Installed Add-ons</string>
+    <string name="no_addons_installed">No add-ons installed.</string>
+    <string name="searching">aramak...</string>
+    <string name="header_username_default">Click to log-in</string>
+    <string name="header_email_default">No account</string>
+    <string name="header_login_error">Error logging-in</string>
+    <string name="main_menu_section_home">Home</string>
+    <string name="main_menu_section_more">More</string>
+    <string name="main_menu_welcome_message">Welcome Back</string>
+    <string name="global_search_all_filter">All</string>
+    <string name="global_search_local_media_filter">Local Storage</string>
+    <string name="global_search_addons_filter">Installed Addons</string>
+    <string name="global_search_movies_filter">Movies</string>
+    <string name="global_search_shows_filter">Tv-Shows</string>
+    <string name="global_search_default_placeholder">Search media content on Kokotime</string>
+    <string name="global_search_no_results_placeholder">Sorry, no media was found</string>
+    <string name="local_media">Local Media</string>
+    <string name="no_media_found">No media found</string>
+    <string name="error_updating_addons_notification_title">Error updating add-ons</string>
+    <string name="error_updating_addons_notification_msg">Some add-ons did not update because their SDK version is not compatible with the app version, make sure your app is up to date !</string>
+    <string name="updating_addons_title">Updating Add-ons</string>
+    <string name="updating_addons_msg">Updating installed Add-ons from the linked add-on store.</string>
+    <string name="addons_updated_msg">Some of your add-ons were updated from the linked add-on store.</string>
+    <string name="addons_updated_title">Add-ons updated</string>
+    <string name="no_movie_addons_installed">No movie add-ons installed.</string>
+    <string name="no_shows_addons_installed">No tv-show add-ons installed.</string>
+    <string name="global_search_filter_location">Search in :</string>
+    <string name="global_search_filter_type">Media type :</string>
+    <string name="global_search_filter_results_count">Results per source :</string>
+    <string name="purchase_now">Buy now</string>
+    <string name="free">Free</string>
+    <string name="check_update">Check for updates</string>
+    <string name="checking">Checking</string>
+    <string name="app_up_to_date">You are running the latest version !</string>
+    <string name="videos">Videos</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="few_minutes_ago">A few minutes ago</string>
+    <string name="few_hours_ago">A few hours ago</string>
+    <string name="few_days_ago">A few days ago</string>
 
 
 </resources>
