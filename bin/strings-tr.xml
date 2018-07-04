@@ -327,6 +327,24 @@
     <string name="few_minutes_ago">A few minutes ago</string>
     <string name="few_hours_ago">A few hours ago</string>
     <string name="few_days_ago">A few days ago</string>
+    <string name="addon_install">Install</string>
+    <string name="addon_update">Update</string>
+    <string name="addon_delete">Uninstall</string>
+    <string name="addon_installing">Installing…</string>
+    <string name="file_name">File name including extension</string>
+    <string name="open_file">Open</string>
+    <string name="open_with">Open with</string>
+    <string name="file_renamed">File renamed</string>
+    <string name="file_moved">File moved</string>
+    <string name="file_copied">File copied</string>
+    <string name="unsuccessful_operation">Couldn\'t complete operation, please retry.</string>
+    <string name="confirm_delete_title">Are your sure ?</string>
+    <string name="confirm_delete_text">This process can NOT be undone, are you sure you want to remove this file from your storage ?</string>
+    <string name="confirm_delete_button">I am sure</string>
+    <string name="no_handler_for_filetype">No app available for this type of file.</string>
+    <string name="confirm_name_change">Confirm</string>
+    <string name="searching_addons_for_sources">The current add-on did not provide a video source, searching your installed add-ons for a valid source.</string>
+    <string name="sponsored">Sponsored</string>
 
 
 </resources>
